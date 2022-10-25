@@ -3,39 +3,42 @@
     "id": "01",
     "name": "HTML-5",
     "photo": "https://i.ibb.co/CVf47zR/maxresdefault.jpg",
-    "details": " HTML for Absolute Beginners While many guides on the internet attempt to teach HTML using a lot of mind-boggling theory, this tutorial will instead focus on giving you the practical skills to build your first site.Read more: https://html.com/#ixzz7ii3xQsnS",
-    "dil": "  Tailwind is a CSS framework that provides us with single-purpose utility classes which are opinionated for the most part, and which help us ... "
+    "details": " The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.",
+    "duration": "4 hr"
   },
   {
     "id": "02",
     "name": "CSS-3",
     "photo": "https://i.ibb.co/mDk8C83/62b2220b038aad4d3ed7ca2f.png",
-    "details": " CSS Programming language Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wid",
-    "dil": "  Tailwind is a CSS framework that provides us with single-purpose utility classes which are opinionated for the most part, and which help us ... "
+    "details": " Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web,",
+    "duration": "4.5 hr"
   },
   {
     "id": "03",
     "name": "TAILWIND CSS",
     "photo": "https://i.ibb.co/5nYLP4F/tailwindcss-ar21.png",
-    "details": "  Tailwind is a CSS framework that provides us with single-purpose utility classes which are opinionated for the most part, and which help us ... ",
-    "dil": "  Tailwind is a CSS framework that provides us with single-purpose utility classes which are opinionated for the most part, and which help us ... "
+    "details": "   Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables. Instead,",
+    "duration": "2 hr"
   },
   {
     "id": "04",
     "name": "JAVASCRIPT",
     "photo": "https://i.ibb.co/tbxJTR4/apa-itu-javascript.png",
-    "details": "JavaScript is the world's most popular programming language.JavaScriptisthe programming language of the Web. JavaScript is easy to learn.JavaScript Examples · JavaScript Introduction ·JavaScript Syntax · JavaScript Let You've visited this page 2 times. Last visit: 6/4/22"
+    "details": "JavaScript (/ˈdʒɑːvəskrɪpt/), often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.",
+    "duration": "8 hr"
   },
   {
     "id": "05",
     "name": "REACT",
     "photo": "https://i.ibb.co/cDVczcZ/1-smu-Mx-L6qzvl-OUx-Tfux-HUg.jpg",
-    "details": "  React makes it painless to create interactive UIs. · Component-BasedBuild encapsulated components that manage their own state, thecompose ... You've visited this page 2 times. Last visit: 9/23/22"
+    "details": " React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js.",
+    "duration": "10 hr"
   },
   {
     "id": "06",
     "name": "NODE JS",
     "photo": "https://i.ibb.co/1KDd2Fw/1-POl37-BWWEribn-Wp-MAo6-Yi-A.png",
-    "details": " Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.You visited this page on 10/17/22."
+    "details": " Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine (i.e. V8 engine) and executes JavaScript code outside a web browser, which was designed to build scalable network applications. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser.",
+    "duration": "12 hr"
   }
 ]
