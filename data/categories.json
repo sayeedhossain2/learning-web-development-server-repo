@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "name": "HTML-5",
+    "photo": "https://i.ibb.co/CVf47zR/maxresdefault.jpg"
+  },
+  {
+    "id": "02",
+    "name": "CSS-3",
+    "photo": "https://i.ibb.co/mDk8C83/62b2220b038aad4d3ed7ca2f.png"
+  },
+  {
+    "id": "03",
+    "name": "TAILWIND CSS",
+    "photo": "https://i.ibb.co/5nYLP4F/tailwindcss-ar21.png"
+  },
+  {
+    "id": "04",
+    "name": "JAVASCRIPT",
+    "photo": "https://i.ibb.co/tbxJTR4/apa-itu-javascript.png"
+  },
+  {
+    "id": "05",
+    "name": "REACT",
+    "photo": "https://i.ibb.co/cDVczcZ/1-smu-Mx-L6qzvl-OUx-Tfux-HUg.jpg"
+  },
+  {
+    "id": "06",
+    "name": "NODE JS",
+    "photo": "https://i.ibb.co/1KDd2Fw/1-POl37-BWWEribn-Wp-MAo6-Yi-A.png"
+  }
+]
