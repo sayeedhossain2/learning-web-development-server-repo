@@ -1,0 +1,41 @@
+[
+  {
+    "id": "01",
+    "name": "HTML-5",
+    "photo": "https://i.ibb.co/CVf47zR/maxresdefault.jpg",
+    "details": " HTML for Absolute Beginners While many guides on the internet attempt to teach HTML using a lot of mind-boggling theory, this tutorial will instead focus on giving you the practical skills to build your first site.Read more: https://html.com/#ixzz7ii3xQsnS",
+    "dil": "  Tailwind is a CSS framework that provides us with single-purpose utility classes which are opinionated for the most part, and which help us ... "
+  },
+  {
+    "id": "02",
+    "name": "CSS-3",
+    "photo": "https://i.ibb.co/mDk8C83/62b2220b038aad4d3ed7ca2f.png",
+    "details": " CSS Programming language Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wid",
+    "dil": "  Tailwind is a CSS framework that provides us with single-purpose utility classes which are opinionated for the most part, and which help us ... "
+  },
+  {
+    "id": "03",
+    "name": "TAILWIND CSS",
+    "photo": "https://i.ibb.co/5nYLP4F/tailwindcss-ar21.png",
+    "details": "  Tailwind is a CSS framework that provides us with single-purpose utility classes which are opinionated for the most part, and which help us ... ",
+    "dil": "  Tailwind is a CSS framework that provides us with single-purpose utility classes which are opinionated for the most part, and which help us ... "
+  },
+  {
+    "id": "04",
+    "name": "JAVASCRIPT",
+    "photo": "https://i.ibb.co/tbxJTR4/apa-itu-javascript.png",
+    "details": "JavaScript is the world's most popular programming language.JavaScriptisthe programming language of the Web. JavaScript is easy to learn.JavaScript Examples · JavaScript Introduction ·JavaScript Syntax · JavaScript Let You've visited this page 2 times. Last visit: 6/4/22"
+  },
+  {
+    "id": "05",
+    "name": "REACT",
+    "photo": "https://i.ibb.co/cDVczcZ/1-smu-Mx-L6qzvl-OUx-Tfux-HUg.jpg",
+    "details": "  React makes it painless to create interactive UIs. · Component-BasedBuild encapsulated components that manage their own state, thecompose ... You've visited this page 2 times. Last visit: 9/23/22"
+  },
+  {
+    "id": "06",
+    "name": "NODE JS",
+    "photo": "https://i.ibb.co/1KDd2Fw/1-POl37-BWWEribn-Wp-MAo6-Yi-A.png",
+    "details": " Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.You visited this page on 10/17/22."
+  }
+]
